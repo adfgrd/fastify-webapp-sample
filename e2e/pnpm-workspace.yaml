@@ -1,3 +1,6 @@
 ignoredBuiltDependencies:
   - detox
   - dtrace-provider
+
+onlyBuiltDependencies:
+  - playwright

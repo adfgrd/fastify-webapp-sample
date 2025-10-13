@@ -10,11 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "codeceptjs": "^3.3.7",
-    "playwright": "^1.30.0"
+    "codeceptjs": "^3.3.7"
   },
   "devDependencies": {
+    "@codeceptjs/configure": "^1.0.6",
     "allure-codeceptjs": "^2.15.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "playwright": "^1.30.0"
   }
 }
