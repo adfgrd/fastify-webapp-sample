@@ -1,3 +1,9 @@
+書籍「テスト自動化実践ガイド」のハンズオン用
+
+こちらのリポジトリは以下をimportしたものです。
+https://github.com/tsuemura/fastify-webapp-sample
+-----------
+
 # Fastify-WebApp-Sample
 
 [Fastify](https://www.fastify.io/) を使って作ったWebアプリケーションのサンプルです。
