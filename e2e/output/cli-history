@@ -1,7 +1,0 @@
-<<< Recorded commands on Mon Oct 13 2025 20:46:08 GMT+0900 (日本標準時)
-I.amOnPage('https://fastify-webapp-sample-production-2608.up.railway.app/')
-I.click('ログインする')
-I.fillField('ユーザー名','user1')
-I.fillField('パスワード','super-strong-passphrase')
-I.click('ログイン')
-I.see('user1 さん')
