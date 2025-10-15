@@ -32,3 +32,6 @@ jobs:
         run: railway up --ci --service fastify-webapp-sample
         env:
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_PRODUCTION_TOKEN }}
+        run: railway up --ci --service fastify-webapp-sample
+        env:
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_PRODUCTION_TOKEN }}
